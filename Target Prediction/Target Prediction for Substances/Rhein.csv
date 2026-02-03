@@ -1,0 +1,49 @@
+Target,Common name,Uniprot ID,ChEMBL ID,Target Class,Probability*,Known actives (3D/2D)
+Alpha-ketoglutarate-dependent dioxygenase FTO,FTO,Q9C0B1,CHEMBL2331065,Oxidoreductase,0.699242271,2 /  1     
+Cytochrome P450 19A1,CYP19A1,P11511,CHEMBL1978,Cytochrome P450,0.130791955,0 /  2     
+Leukocyte elastase,ELANE,P08246,CHEMBL248,Protease,0.114337559,0 /  20     
+Protein farnesyltransferase,FNTA FNTB,P49354 P49356,CHEMBL2094108,Enzyme,0.106099949,0 /  2     
+Casein kinase II alpha,CSNK2A1,P68400,CHEMBL3629,Kinase,0.097874534,9 /  3     
+Protein-tyrosine phosphatase 4A3,PTP4A3,O75365,CHEMBL4162,Phosphatase,0.097874534,0 /  1     
+Estrogen receptor beta,ESR2,Q92731,CHEMBL242,Nuclear receptor,0.097874534,3 /  3     
+Caspase-3,CASP3,P42574,CHEMBL2334,Protease,0.097874534,23 /  1     
+Serine/threonine-protein kinase PIM1,PIM1,P11309,CHEMBL2147,Kinase,0.097874534,9 /  1     
+L-lactate dehydrogenase A chain,LDHA,P00338,CHEMBL4835,Enzyme,0.097874534,0 /  14     
+L-lactate dehydrogenase B chain,LDHB,P07195,CHEMBL4940,Enzyme,0.097874534,0 /  11     
+Serine/threonine-protein kinase/endoribonuclease IRE1,ERN1,O75460,CHEMBL1163101,Enzyme,0.097874534,10 /  0     
+Estrogen receptor alpha,ESR1,P03372,CHEMBL206,Nuclear receptor,0.097874534,2 /  3     
+AMP deaminase 3,AMPD3,Q01432,CHEMBL2912,Enzyme,0.097874534,7 /  0     
+Apoptosis regulator Bcl-2,BCL2,P10415,CHEMBL4860,Other ion channel,0.097874534,0 /  12     
+Endothelin-converting enzyme 1,ECE1,P42892,CHEMBL4791,Protease,0.097874534,9 /  0     
+Dual specificity phosphatase Cdc25B,CDC25B,P30305,CHEMBL4804,Phosphatase,0.097874534,2 /  3     
+Induced myeloid leukemia cell differentiation protein Mcl-1,MCL1,Q07820,CHEMBL4361,Other cytosolic protein,0.097874534,3 /  13     
+LIM domain kinase 1,LIMK1,P53667,CHEMBL3836,Kinase,0.097874534,0 /  1     
+G protein-coupled receptor kinase 6,GRK6,P43250,CHEMBL6144,Kinase,0.097874534,12 /  0     
+Tyrosine-protein kinase LCK,LCK,P06239,CHEMBL258,Kinase,0.097874534,4 /  1     
+Neprilysin   (by homology),MME,P08473,CHEMBL1944,Protease,0.097874534,34 /  0     
+Cyclin-dependent kinase 2,CDK2,P24941,CHEMBL301,Kinase,0.097874534,1 /  0     
+Hepatocyte nuclear factor 4-alpha,HNF4A,P41235,CHEMBL5398,Unclassified protein,0.097874534,0 /  6     
+Thrombin,F2,P00734,CHEMBL204,Protease,0.097874534,11 /  0     
+Insulin-like growth factor binding protein 3,IGFBP3,P17936,CHEMBL3997,Secreted protein,0.097874534,17 /  0     
+Egl nine homolog 1,EGLN1,Q9GZT9,CHEMBL5697,Oxidoreductase,0.097874534,20 /  0     
+G-protein coupled receptor 35,GPR35,Q9HC97,CHEMBL1293267,Family A G protein-coupled receptor,0.097874534,7 /  2     
+Solute carrier family 13 member 5,SLC13A5,Q86YT5,CHEMBL3769293,Electrochemical transporter,0.097874534,10 /  0     
+ATP-citrate synthase,ACLY,P53396,CHEMBL3720,Enzyme,0.097874534,20 /  0     
+Caspase-6,CASP6,P55212,CHEMBL3308,Protease,0.097874534,5 /  0     
+Caspase-7,CASP7,P55210,CHEMBL3468,Protease,0.097874534,5 /  0     
+Caspase-8,CASP8,Q14790,CHEMBL3776,Protease,0.097874534,5 /  0     
+Caspase-1,CASP1,P29466,CHEMBL4801,Protease,0.097874534,4 /  0     
+Caspase-2,CASP2,P42575,CHEMBL4884,Protease,0.097874534,3 /  0     
+Bifunctional protein NCOAT,OGA,O60502,CHEMBL5921,Enzyme,0.097874534,13 /  0     
+c-Jun N-terminal kinase 1,MAPK8,P45983,CHEMBL2276,Kinase,0.097874534,5 /  0     
+Adenosine deaminase,ADA,P00813,CHEMBL1910,Hydrolase,0.097874534,4 /  0     
+NADPH oxidase 4,NOX4,Q9NPH5,CHEMBL1250375,Enzyme,0.097874534,2 /  0     
+CaM-kinase kinase beta,CAMKK2,Q96RR4,CHEMBL5284,Kinase,0.097874534,1 /  0     
+Matrix metalloproteinase 16,MMP16,P51512,CHEMBL2200,Protease,0.097874534,1 /  0     
+Matrix metalloproteinase 13,MMP13,P45452,CHEMBL280,Protease,0.097874534,2 /  0     
+Matrix metalloproteinase 9,MMP9,P14780,CHEMBL321,Protease,0.097874534,6 /  0     
+Matrix metalloproteinase 1,MMP1,P03956,CHEMBL332,Protease,0.097874534,6 /  0     
+Matrix metalloproteinase 2,MMP2,P08253,CHEMBL333,Protease,0.097874534,6 /  0     
+Matrix metalloproteinase 14,MMP14,P50281,CHEMBL3869,Protease,0.097874534,2 /  0     
+Matrix metalloproteinase 8,MMP8,P22894,CHEMBL4588,Protease,0.097874534,6 /  0     
+Insulin receptor,INSR,P06213,CHEMBL1981,Kinase,0.097874534,1 /  0     

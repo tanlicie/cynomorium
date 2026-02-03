@@ -1,0 +1,35 @@
+Target,Common name,Uniprot ID,ChEMBL ID,Target Class,Probability*,Known actives (3D/2D)
+Protein-tyrosine phosphatase 1B,PTPN1,P18031,CHEMBL335,Phosphatase,0.247308263,10 /  17     
+Cytochrome P450 19A1,CYP19A1,P11511,CHEMBL1978,Cytochrome P450,0.109339753,5 /  11     
+Acetylcholinesterase,ACHE,P22303,CHEMBL220,Hydrolase,0.109339753,5 /  29     
+Estrogen receptor alpha,ESR1,P03372,CHEMBL206,Nuclear receptor,0.109339753,7 /  39     
+Xanthine dehydrogenase,XDH,P47989,CHEMBL1929,Oxidoreductase,0.109339753,3 /  6     
+Thromboxane-A synthase,TBXAS1,P24557,CHEMBL1835,Cytochrome P450,0.109339753,0 /  1     
+Maltase-glucoamylase,MGAM,O43451,CHEMBL2074,Hydrolase,0.109339753,0 /  1     
+Serotonin 2a (5-HT2a) receptor,HTR2A,P28223,CHEMBL224,Family A G protein-coupled receptor,0.109339753,0 /  1     
+Estrogen-related receptor alpha,ESRRA,P11474,CHEMBL3429,Nuclear receptor,0.109339753,0 /  2     
+Estrogen-related receptor beta,ESRRB,O95718,CHEMBL3751,Nuclear receptor,0.109339753,0 /  1     
+Estradiol 17-beta-dehydrogenase 1,HSD17B1,P14061,CHEMBL3181,Enzyme,0.109339753,6 /  3     
+Aldehyde dehydrogenase,ALDH2,P05091,CHEMBL1935,Oxidoreductase,0.109339753,0 /  36     
+Androgen Receptor   (by homology),AR,P10275,CHEMBL1871,Nuclear receptor,0.109339753,3 /  0     
+ATP-binding cassette sub-family G member 2,ABCG2,Q9UNQ0,CHEMBL5393,Primary active transporter,0.109339753,2 /  7     
+Monoamine oxidase A,MAOA,P21397,CHEMBL1951,Oxidoreductase,0.109339753,2 /  6     
+P-glycoprotein 1,ABCB1,P08183,CHEMBL4302,Primary active transporter,0.109339753,9 /  29     
+Epidermal growth factor receptor erbB1,EGFR,P00533,CHEMBL203,Kinase,0.109339753,4 /  4     
+Heat shock protein HSP 90-alpha,HSP90AA1,P07900,CHEMBL3880,Other cytosolic protein,0.109339753,42 /  0     
+Estradiol 17-beta-dehydrogenase 2,HSD17B2,P37059,CHEMBL2789,Enzyme,0.109339753,7 /  2     
+Heat shock protein HSP 90-beta,HSP90AB1,P08238,CHEMBL4303,Other cytosolic protein,0.109339753,17 /  0     
+Glucagon receptor,GCGR,P47871,CHEMBL1985,Family B G protein-coupled receptor,0.109339753,27 /  0     
+Apoptosis regulator Bcl-X,BCL2L1,Q07817,CHEMBL4625,Other ion channel,0.109339753,1 /  0     
+NADPH oxidase 4,NOX4,Q9NPH5,CHEMBL1250375,Enzyme,0.109339753,0 /  3     
+Nuclear factor NF-kappa-B p65 subunit,RELA,Q04206,CHEMBL5533,Transcription factor,0.109339753,0 /  3     
+Receptor-type tyrosine-protein phosphatase S,PTPRS,Q13332,CHEMBL2396508,Phosphatase,0.109339753,0 /  4     
+Interleukin-2,IL2,P60568,CHEMBL5880,Secreted protein,0.109339753,0 /  4     
+Adenosine A2a receptor,ADORA2A,P29274,CHEMBL251,Family A G protein-coupled receptor,0.109339753,1 /  4     
+Carbonic anhydrase XII,CA12,O43570,CHEMBL3242,Lyase,0.109339753,10 /  9     
+Tyrosinase   (by homology),TYR,P14679,CHEMBL1973,Oxidoreductase,0.109339753,0 /  2     
+Macrophage migration inhibitory factor,MIF,P14174,CHEMBL2085,Enzyme,0.109339753,0 /  4     
+Adrenergic receptor beta,ADRB2,P07550,CHEMBL210,Family A G protein-coupled receptor,0.109339753,52 /  0     
+Beta-1 adrenergic receptor,ADRB1,P08588,CHEMBL213,Family A G protein-coupled receptor,0.109339753,51 /  0     
+Serine/threonine-protein kinase Chk2,CHEK2,O96017,CHEMBL2527,Kinase,0.109339753,39 /  0     
+Phosphodiesterase 10A,PDE10A,Q9Y233,CHEMBL4409,Phosphodiesterase,0.109339753,5 /  0     

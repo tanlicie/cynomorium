@@ -1,0 +1,80 @@
+Target,Common name,Uniprot ID,ChEMBL ID,Target Class,Probability*,Known actives (3D/2D)
+Carbonic anhydrase VII,CA7,P43166,CHEMBL2326,Lyase,1,11 /  8     
+Carbonic anhydrase XII,CA12,O43570,CHEMBL3242,Lyase,1,26 /  7     
+Carbonic anhydrase IV,CA4,P22748,CHEMBL3729,Lyase,1,9 /  8     
+Cytochrome P450 1B1,CYP1B1,Q16678,CHEMBL4878,Cytochrome P450,1,7 /  6     
+Cytochrome P450 19A1,CYP19A1,P11511,CHEMBL1978,Cytochrome P450,0.64978075,10 /  50     
+Cyclooxygenase-1,PTGS1,P23219,CHEMBL221,Oxidoreductase,0.295453305,7 /  13     
+Multidrug resistance-associated protein 1,ABCC1,P33527,CHEMBL3004,Primary active transporter,0.20488198,2 /  6     
+Estradiol 17-beta-dehydrogenase 1,HSD17B1,P14061,CHEMBL3181,Enzyme,0.20488198,77 /  2     
+Testis-specific androgen-binding protein,SHBG,P04278,CHEMBL3305,Secreted protein,0.20488198,1 /  3     
+Carbonyl reductase [NADPH] 1,CBR1,P16152,CHEMBL5586,Enzyme,0.20488198,1 /  1     
+Estrogen receptor beta,ESR2,Q92731,CHEMBL242,Nuclear receptor,0.20488198,182 /  79     
+Estrogen receptor alpha,ESR1,P03372,CHEMBL206,Nuclear receptor,0.188420386,179 /  87     
+Monoamine oxidase B,MAOB,P27338,CHEMBL2039,Oxidoreductase,0.147256737,10 /  123     
+Taste receptor type 2 member 31,TAS2R31,P59538,CHEMBL2034804,Taste family G protein-coupled receptor,0.139061947,1 /  3     
+Adenosine A1 receptor   (by homology),ADORA1,P30542,CHEMBL226,Family A G protein-coupled receptor,0.139061947,5 /  3     
+Adenosine A3 receptor,ADORA3,P0DMS8,CHEMBL256,Family A G protein-coupled receptor,0.139061947,1 /  3     
+ATP-binding cassette sub-family G member 2,ABCG2,Q9UNQ0,CHEMBL5393,Primary active transporter,0.106099949,5 /  11     
+Matrix metalloproteinase 13,MMP13,P45452,CHEMBL280,Protease,0.106099949,12 /  1     
+Aldo-keto-reductase family 1 member C3,AKR1C3,P42330,CHEMBL4681,Enzyme,0.097874534,0 /  8     
+Matrix metalloproteinase 12,MMP12,P39900,CHEMBL4393,Protease,0.097874534,5 /  3     
+Phospholipase A2 group 1B,PLA2G1B,P04054,CHEMBL4426,Enzyme,0.097874534,0 /  1     
+Kallikrein 1,KLK1,P06870,CHEMBL2319,Protease,0.097874534,0 /  1     
+Kallikrein 2,KLK2,P20151,CHEMBL2442,Protease,0.097874534,0 /  1     
+Beta amyloid A4 protein,APP,P05067,CHEMBL2487,Membrane receptor,0.097874534,8 /  3     
+Metabotropic glutamate receptor 5,GRM5,P41594,CHEMBL3227,Family C G protein-coupled receptor,0.097874534,0 /  10     
+Acyl coenzyme A:cholesterol acyltransferase,CES1,P23141,CHEMBL2265,Enzyme,0.097874534,0 /  1     
+Peroxisome proliferator-activated receptor gamma,PPARG,P37231,CHEMBL235,Nuclear receptor,0.097874534,0 /  114     
+Carboxylesterase 2,CES2,O00748,CHEMBL3180,Enzyme,0.097874534,0 /  1     
+Microtubule-associated protein tau,MAPT,P10636,CHEMBL1293224,Unclassified protein,0.097874534,4 /  1     
+Carbonic anhydrase II,CA2,P00918,CHEMBL205,Lyase,0.097874534,47 /  4     
+Carbonic anhydrase I,CA1,P00915,CHEMBL261,Lyase,0.097874534,45 /  3     
+Beta-secretase 1,BACE1,P56817,CHEMBL4822,Protease,0.097874534,15 /  15     
+DNA polymerase beta   (by homology),POLB,P06746,CHEMBL2392,Enzyme,0.097874534,0 /  3     
+Cyclin-dependent kinase 5/CDK5 activator 1,CDK5R1 CDK5,Q15078 Q00535,CHEMBL1907600,Kinase,0.097874534,2 /  0     
+Stem cell growth factor receptor,KIT,P10721,CHEMBL1936,Kinase,0.097874534,2 /  3     
+Tyrosine-protein kinase SRC,SRC,P12931,CHEMBL267,Kinase,0.097874534,26 /  4     
+Vascular endothelial growth factor receptor 2,KDR,P35968,CHEMBL279,Kinase,0.097874534,5 /  12     
+Fibroblast growth factor receptor 1,FGFR1,P11362,CHEMBL3650,Kinase,0.097874534,1 /  3     
+Hepatocyte growth factor receptor,MET,P08581,CHEMBL3717,Kinase,0.097874534,11 /  5     
+Phospholipase A2 group IIA,PLA2G2A,P14555,CHEMBL3474,Enzyme,0.097874534,0 /  8     
+Phospholipase A2 group V,PLA2G5,P39877,CHEMBL4323,Enzyme,0.097874534,0 /  3     
+Group X secretory phospholipase A2,PLA2G10,O15496,CHEMBL4342,Enzyme,0.097874534,0 /  1     
+Endothelin receptor ET-A   (by homology),EDNRA,P25101,CHEMBL252,Family A G protein-coupled receptor,0.097874534,0 /  78     
+Alpha-synuclein,SNCA,P37840,CHEMBL6152,Unclassified protein,0.097874534,12 /  0     
+Carbonic anhydrase VI,CA6,P23280,CHEMBL3025,Lyase,0.097874534,4 /  2     
+Carbonic anhydrase VA,CA5A,P35218,CHEMBL4789,Lyase,0.097874534,4 /  3     
+Neuronal acetylcholine receptor protein alpha-7 subunit,CHRNA7,P36544,CHEMBL2492,Ligand-gated ion channel,0.097874534,10 /  0     
+Dual-specificity tyrosine-phosphorylation regulated kinase 1A,DYRK1A,Q13627,CHEMBL2292,Kinase,0.097874534,20 /  1     
+Carbonic anhydrase IX,CA9,Q16790,CHEMBL3594,Lyase,0.097874534,26 /  1     
+P-glycoprotein 1,ABCB1,P08183,CHEMBL4302,Primary active transporter,0.097874534,2 /  200     
+Acetylcholinesterase,ACHE,P22303,CHEMBL220,Hydrolase,0.097874534,1 /  40     
+Carbonic anhydrase III,CA3,P07451,CHEMBL2885,Lyase,0.097874534,2 /  2     
+Carbonic anhydrase XIII,CA13,Q8N1Q1,CHEMBL3912,Lyase,0.097874534,3 /  2     
+Carbonic anhydrase VB,CA5B,Q9Y2D0,CHEMBL3969,Lyase,0.097874534,3 /  2     
+HERG,KCNH2,Q12809,CHEMBL240,Voltage-gated ion channel,0.097874534,0 /  10     
+"CMP-N-acetylneuraminate-beta-1,4-galactoside alpha-2,3-sialyltransferase",ST3GAL3,Q11203,CHEMBL3596076,Transferase,0.097874534,0 /  1     
+"Alpha-(1,3)-fucosyltransferase 7",FUT7,Q11130,CHEMBL3596077,Transferase,0.097874534,0 /  1     
+Fucosyltransferase 4,FUT4,P22083,CHEMBL4996,Enzyme,0.097874534,0 /  1     
+Retinoid X receptor alpha,RXRA,P19793,CHEMBL2061,Nuclear receptor,0.097874534,0 /  17     
+Telomerase reverse transcriptase,TERT,O14746,CHEMBL2916,Enzyme,0.097874534,8 /  2     
+Free fatty acid receptor 1,FFAR1,O14842,CHEMBL4422,Family A G protein-coupled receptor,0.097874534,0 /  126     
+NADPH oxidase 4,NOX4,Q9NPH5,CHEMBL1250375,Enzyme,0.097874534,7 /  0     
+Matrix metalloproteinase 2,MMP2,P08253,CHEMBL333,Protease,0.097874534,43 /  7     
+Apoptosis regulator Bcl-2,BCL2,P10415,CHEMBL4860,Other ion channel,0.097874534,8 /  10     
+Insulin-like growth factor binding protein 3,IGFBP3,P17936,CHEMBL3997,Secreted protein,0.097874534,1 /  0     
+Tyrosine-protein kinase LCK,LCK,P06239,CHEMBL258,Kinase,0.097874534,12 /  0     
+Tyrosine-protein kinase SYK,SYK,P43405,CHEMBL2599,Kinase,0.097874534,5 /  0     
+Aldose reductase,AKR1B1,P15121,CHEMBL1900,Enzyme,0.097874534,43 /  45     
+Hypoxia-inducible factor 1 alpha,HIF1A,Q16665,CHEMBL4261,Transcription factor,0.097874534,0 /  4     
+Cathepsin (B and K),CTSB,P07858,CHEMBL4072,Protease,0.097874534,0 /  1     
+Quinone reductase 2,NQO2,P16083,CHEMBL3959,Enzyme,0.097874534,5 /  0     
+Dual specificty protein kinase CLK1,CLK1,P49759,CHEMBL4224,Kinase,0.097874534,10 /  0     
+Dual specificity tyrosine-phosphorylation-regulated kinase 1B,DYRK1B,Q9Y463,CHEMBL5543,Kinase,0.097874534,11 /  0     
+Matrix metalloproteinase 9,MMP9,P14780,CHEMBL321,Protease,0.097874534,40 /  1     
+Insulin-like growth factor I receptor,IGF1R,P08069,CHEMBL1957,Kinase,0.097874534,20 /  0     
+Insulin receptor,INSR,P06213,CHEMBL1981,Kinase,0.097874534,5 /  0     
+Ornithine decarboxylase,ODC1,P11926,CHEMBL1869,Lyase,0.097874534,0 /  5     
+Serine/threonine-protein kinase AKT,AKT1,P31749,CHEMBL4282,Kinase,0.097874534,0 /  16     
+DNA topoisomerase I,TOP1,P11387,CHEMBL1781,Isomerase,0.097874534,6 /  0     
